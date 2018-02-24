@@ -24,7 +24,9 @@ Other amazingly awesome lists can be found in `sindresorhus's awesome <https://g
 
 .. contents:: **Table of Contents**
 
+Aggregated List - Classification
 
+* |OK_ICON| `Stanford Classification Data Sets <http://sci2s.ugr.es/keel/category.php?cat=clas>`_
     
 Agriculture
 -----------
