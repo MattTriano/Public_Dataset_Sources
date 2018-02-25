@@ -756,6 +756,8 @@ ImageProcessing
 MachineLearning
 ---------------
         
+* |OK_ICON| `Deeplearning Benchmarking Datasets (images, faces, text, speech, recommender systems) <http://deeplearning.net/datasets/>`_
+
 * |OK_ICON| `Context-aware data sets from five domains <https://github.com/irecsys/CARSKit/tree/master/context-aware_data_sets>`_
         
 * |OK_ICON| `Delve Datasets for classification and regression <http://www.cs.toronto.edu/~delve/data/datasets.html>`_
