@@ -123,7 +123,46 @@ Biology
 * |OK_ICON| `UniGene <http://www.ncbi.nlm.nih.gov/unigene>`_
         
 * |OK_ICON| `Universal Protein Resource (UnitProt) <http://www.uniprot.org/downloads>`_
-    
+
+City Data (including shapefiles)
+--------------------------------
+
+* |OK_ICON| `Austin TX Open Data <https://data.austintexas.gov/>`_
+
+* |OK_ICON| `Boston Open Data <https://data.boston.gov/>`_
+
+* |OK_ICON| `Chicago Data Portal <https://data.cityofchicago.org/>`_
+
+* |OK_ICON| `Denver Open Data <https://www.denvergov.org/opendata>`_
+
+* |OK_ICON| `Detroit Data Portal <https://data.detroitmi.gov/>`_
+
+* |OK_ICON| `Houston Open Data <http://data.houstontx.gov/>`_
+
+* |OK_ICON| `London (UK) Open Data <https://data.london.gov.uk/>`_
+
+* |OK_ICON| `Los Angeles Open Data <https://data.lacity.org/>`_
+
+* |OK_ICON| `Madison WI Open Data <https://data-cityofmadison.opendata.arcgis.com/>`_
+
+* |OK_ICON| `Miami Open Data <https://gis-mdc.opendata.arcgis.com/>`_
+
+* |OK_ICON| `NYC Open Data <https://opendata.cityofnewyork.us/>`_
+
+* |OK_ICON| `New Orleans Open Data <https://portal-nolagis.opendata.arcgis.com/>`_
+
+* |OK_ICON| `Philadelphia Open Data <https://www.opendataphilly.org/>`_
+
+* |OK_ICON| `Portland OR Open Data <https://gis-pdx.opendata.arcgis.com/>`_
+
+* |OK_ICON| `San Francisco Open Data <https://datasf.org/opendata/>`_
+
+* |OK_ICON| `Seattle Open Data <https://data.seattle.gov/>`_
+
+* |OK_ICON| `St. Louis Open Data <https://www.stlouis-mo.gov/data/>`_
+
+* |OK_ICON| `Washington DC Open Data <https://opendata.dc.gov/>`_
+
 Climate+Weather
 ---------------
         
@@ -422,7 +461,7 @@ GIS
         
 * |OK_ICON| `Natural Earth - vectors and rasters of the world <http://www.naturalearthdata.com/>`_
         
-* |OK_ICON| `OpenAddresses <http://openaddresses.io/>`_
+* |OK_ICON| `OpenAddresses <https://openaddresses.io/>`_
         
 * |OK_ICON| `OpenStreetMap (OSM) <http://wiki.openstreetmap.org/wiki/Downloading_data>`_
         
